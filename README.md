@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nirmalcontrolshift 
+- 👋 Hi, I’m @Nirmal 
 - 👀 I’m interested in ... Developing 
 - 🌱 I’m currently learning Project Management
 - 💞️ I’m looking to collaborate on DevOps React Native 
